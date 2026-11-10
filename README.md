@@ -1,6 +1,4 @@
-## Hello!
-
-My name is Hallam Roberts.
+## Hello! My name is Hallam Roberts.
 
 I've been making videos and code since 2012, including full-stack development and low-level systems programming.
 
